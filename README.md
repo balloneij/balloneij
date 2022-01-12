@@ -1,1 +1,1 @@
-![hacking](hacking.gif)
+![hacking](logo.svg)
