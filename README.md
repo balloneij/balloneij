@@ -1,1 +1,0 @@
-![hacking](logo.svg)
