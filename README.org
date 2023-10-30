@@ -1,3 +1,4 @@
-[[https://balloneij.com/][balloneij.com]] | [[https://messagehighway.com/][messagehighway.com]]
+[[https://balloneij.com/][balloneij.com]]
 
-#+HTML: <a href="https://stackoverflow.com/users/3198349/balloneij"><img src="https://stackoverflow.com/users/flair/3198349.png?theme=clean" width="156" alt="profile for balloneij at Stack Overflow" title="profile for balloneij at Stack Overflow"></a>
+[[https://messagehighway.com/][messagehighway.com]]
+
