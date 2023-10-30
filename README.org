@@ -1,41 +1,7 @@
-
-#+html: <img align="left" src="./balloneij.com.png" alt="Monkey bridge" width="24"/>
+[[https://balloneij.com/][file:balloneij.com.png]]
 [[https://balloneij.com/][balloneij.com]]
 
-[[https://www.google.com][file:balloneij.com.png]]
-[[https://balloneij.com/][balloneij.com]]
+[[https://messagehighway.com/][file:messagehighway.com.png]]
+[[https://messagehighway.com/][messagehighway.com]]
 
-
-fasdf
-k
-[[https://messagehighway.com/][file:./messagehighway.com.png ]][[https://messagehighway.com/][messagehighway.com]]
-
-
-#+html_begin: <div>
-<a href="https://www.taoensso.com/clojure" title="More stuff by @ptaoussanis at www.taoensso.com"><img src="https://www.taoensso.com/open-source.png" alt="Taoensso open source" width="340"/></a>
-#+html_end: </div>
-
-#+HTML_BEGIN: <pre style="color:red">
-Text can be preformatted (in a fixed-width font).
-#+HTML_END: </pre>
-
-0
-
-#+HTML: <a href="https://www.taoensso.com/clojure" title="More stuff by @ptaoussanis at www.taoensso.com"><img src="https://www.taoensso.com/open-source.png" alt="Taoensso open source" width="340"/></a>
-
-1
-
-#+BEGIN_EXPORT html
-<a href="https://www.taoensso.com/clojure" title="More stuff by @ptaoussanis at www.taoensso.com"><img src="https://www.taoensso.com/open-source.png" alt="Taoensso open source" width="340"/></a>
-#+END_EXPORT
-
-2
-
-#+begin_html
-<div>
-  <a href="https://balloneij.com/">
-    <img src="./balloneij.com.png" alt="Monkey bridge" width="24"/>
-    balloneij.com
-  </a>
-</div>
-#+end_html
+#+HTML: <a href="https://stackoverflow.com/users/3198349/balloneij"><img src="https://stackoverflow.com/users/flair/3198349.png?theme=clean" width="156" alt="profile for balloneij at Stack Overflow" title="profile for balloneij at Stack Overflow"></a>
