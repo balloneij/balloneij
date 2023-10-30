@@ -1,4 +1,4 @@
 
-[[https://balloneij.com/][file:./balloneij.com.png balloneij.com]]
+[[https://balloneij.com/][file:balloneij.com.png balloneij.com]]
 
 [[https://messagehighway.com/][messagehighway.com]]
