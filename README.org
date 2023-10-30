@@ -1,7 +1,5 @@
 
-[[./balloneij.com.png]] [[https://balloneij.com/][balloneij.com]]
-
-#+html: <img src="./balloneij.com.png" alt="Monkey bridge" width="24"/>
+#+html: <img align="left" src="./balloneij.com.png" alt="Monkey bridge" width="24"/>
 [[https://balloneij.com/][balloneij.com]]
 
 [[https://www.google.com][file:balloneij.com.png]]
